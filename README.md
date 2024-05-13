@@ -6,7 +6,7 @@ armazenar resumos sobre Git e GitHub do curso Versionamento de Código com Git e
 - [Documentação do Git] (https://git-scm.com/docs/git/pt_BR)
 - [Documentação do GitHub] (https://docs.github.com/pt)
 
-## ✍️ Resumos das Aulas
+## ✍️ Resumo
 
  | Aulas     | Resumos
  | --------- | --------
