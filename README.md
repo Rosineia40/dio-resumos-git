@@ -9,7 +9,8 @@ armazenar resumos sobre Git e GitHub do curso Versionamento de Código com Git e
 ## ✍️ Resumo
 
  | Aulas     | Resumos
- | --------- | --------
+ | Aula 01 | [ Resumo] () |
+ | Aula 02 | [ Resumo] () |
   
 Gravando Alterações no Repositório Local [Resumos]  (https://github.com/Rosineia40/Estou-chegando.git)
 ```
